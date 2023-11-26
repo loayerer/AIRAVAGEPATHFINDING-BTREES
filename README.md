@@ -1,7 +1,8 @@
 # AIRAVAGEPATHFINDING-BTREES
 LICENSE AND SUPPORT: YOU MAY NOT USE THIS UNLESS THE NAME IS UNDER R____ | Intergration and C Applys
 
-This repository contains the advanced Pathfinding System developed specifically for the RAVAGE project in Roblox. Our system revolutionizes navigation and movement for in-game entities, significantly enhancing the overall gaming experience. Employing cutting-edge algorithms, it calculates optimal routes, navigates complex terrains, and adapts to dynamic environments seamlessly.
+This repository contains the advanced Pathfinding System developed specifically for the RAVAGE project in Roblox. Our system revolutionizes A* algorithm and BehaviorTrees for the AI, For more info read below.
+![image](https://github.com/loayerer/AIRAVAGEPATHFINDING-BTREES/assets/51399456/c0c855d5-c14b-457b-9c6d-75f35f66b8ac)
 
 Key Features:
 - Efficient Route Planning: Our pathfinding system utilizes advanced algorithms to ensure optimal navigation for Roblox entities, enabling them to traverse complex terrains and overcome obstacles effortlessly.
